@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://GlobeTrekLog.github.io/water</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://GlobeTrekLog.github.io/water</link></image><lastBuildDate>Mon, 01 Apr 2024 08:57:07 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>booklist</title><link>https://GlobeTrekLog.github.io/water/post/booklist.html</link><description>---&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Water Blog</title><link>https://GlobeTrekLog.github.io/water_blog</link><description>Blog description</description><copyright>Water Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/GlobeTrekLog/water_blog/blob/main/backup/img/water.jpg</url><title>avatar</title><link>https://GlobeTrekLog.github.io/water_blog</link></image><lastBuildDate>Mon, 01 Apr 2024 16:20:04 +0000</lastBuildDate><managingEditor>Water Blog</managingEditor><ttl>60</ttl><webMaster>Water Blog</webMaster><item><title>booklist</title><link>https://GlobeTrekLog.github.io/water_blog/post/booklist.html</link><description>---&#13;
 layout: default&#13;
 title: booklist&#13;
 ---&#13;
@@ -49,4 +49,4 @@ title: booklist&#13;
 &lt;img src="https://www.google.com/doodles/kamma-rahbeks-241st-birthday" style="zoom:50%" /&gt;&#13;
 ```&#13;
 &#13;
-[back](../)。</description><guid isPermaLink="true">https://GlobeTrekLog.github.io/water/post/booklist.html</guid><pubDate>Mon, 01 Apr 2024 08:56:41 +0000</pubDate></item></channel></rss>
+[back](../)。</description><guid isPermaLink="true">https://GlobeTrekLog.github.io/water_blog/post/booklist.html</guid><pubDate>Mon, 01 Apr 2024 08:56:41 +0000</pubDate></item></channel></rss>
